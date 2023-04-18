@@ -1,1 +1,1 @@
-# Compilador usado C18 
+# Compilador usado: gcc versión C18 
